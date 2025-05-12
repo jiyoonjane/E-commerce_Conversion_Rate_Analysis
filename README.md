@@ -2,7 +2,7 @@
 # Introduction: Project Background 
 
 ## Project Overview
-We are the Partner Analytics team at a leading cosmetics e-commerce platform, enabling our hosted brands to grow through data-driven insights. Recently, Grattol—the second-highest-revenue brand on our platform—requested an analysis to uncover ways to boost their sales.
+I’m on the Partner Analytics team at a leading cosmetics e-commerce platform, where I help partner brands grow through data-driven insights. Recently, Grattol—the second highest-earning brand on our site—asked me to analyze their performance and recommend ways to boost their sales.
 
 Although Grattol already ranks #2 in revenue, its purchase conversion rate lags behind competitors. It remains unclear whether low conversion is the primary driver of unrealized revenue. This project seeks to diagnose the root causes of under-optimized sales for Grattol and to recommend actionable, data-backed improvements.
 
