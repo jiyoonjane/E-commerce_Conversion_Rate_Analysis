@@ -54,12 +54,14 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 - Grattol remains the #2 monthly revenue brand, but as of **February 2020**, the gap between top competitors is narrowing.
 - Although Grattol experienced a sharp month-over-month revenue decline (mirroring other brands), **Irisk** actually **grew** its revenue during the same period—hinting at a possible overtake in the near future.
 
-![image.png](attachment:c644fee0-6810-4296-9ad7-74e6dd3e2edc:image.png)
+![image](https://github.com/user-attachments/assets/c57a5659-46e8-4ec9-9b15-5a1be558d29b)
+
 
 ## Daily Revenue Trend
 - Aside from event-driven sales spikes, all brands except Runail trail behind Irisk on a day-to-day basis.
 
-![image.png](attachment:28945e5d-b0e8-4a3f-8156-5b25251d06fe:image.png)
+![image](https://github.com/user-attachments/assets/8b6bb9c6-efbb-4461-a306-7e3ea63ded3b)
+
 
 > **Note: How Is Revenue Calculated?**  
 > Revenue = Number of Purchasers × ARPPU  
@@ -71,7 +73,8 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 
 ## 👀🧭 Step 3: Analyze Grattol’s February 2020 Decline
 
-![image.png](attachment:788608c3-1590-400e-93b4-ef9f2a246c0f:image.png)
+![image](https://github.com/user-attachments/assets/8e4e12be-bcc0-4c6f-bfb3-c6efe2f705f1)
+
 
 | Brand   | Visitors ↓ | Conversion Rate ↓ | ARPPU ↑ | Revenue ↓  |
 |---------|------------|-------------------|---------|------------|
