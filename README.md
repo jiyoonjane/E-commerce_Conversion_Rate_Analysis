@@ -102,7 +102,7 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 - Diagnose the **root causes** of Grattol’s under-optimized sales by examining conversion rate, ARPPU, and buyer counts.  
 - Deliver **data-driven insights** and tactical recommendations by analyzing user behavior across funnel stages, time of day, price tiers, and weekdays to pinpoint key growth levers.
 
-## Data Selection & Collection
+## Description of Data set 
 
 [eCommerce Events History in Cosmetics Shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?resource=download)
 
