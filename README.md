@@ -102,3 +102,29 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 - Diagnose the **root causes** of Grattol’s under-optimized sales by examining conversion rate, ARPPU, and buyer counts.  
 - Deliver **data-driven insights** and tactical recommendations by analyzing user behavior across funnel stages, time of day, price tiers, and weekdays to pinpoint key growth levers.
 
+## Data Selection & Collection
+
+[eCommerce Events History in Cosmetics Shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?resource=download)
+
+### Data Columns & Definitions
+
+| Column          | Description                                                                                              | Nullable | Negative Values |
+|-----------------|----------------------------------------------------------------------------------------------------------|:--------:|:---------------:|
+| **event_time**      | Timestamp of event occurrence (UTC)                                                                      |    No    |       No        |
+| **event_type**      | Type of user action (view, cart, remove_from_cart, purchase)                                            |    No    |       No        |
+| **product_id**      | Unique product identifier                                                                               |    No    |       No        |
+| **category_id**     | Product category identifier                                                                              |    No    |       No        |
+| **category_code**   | Category classification code (only present for meaningful categories; e.g., accessories omitted)         |   Yes    |       No        |
+| **brand**           | Brand name in lowercase (may be missing)                                                                 |   Yes    |       No        |
+| **price**           | Product price (float)                                                                                    |    No    |      Yes        |
+| **user_id**         | Unique user identifier                                                                                  |    No    |       No        |
+| **user_session**    | Temporary session ID (persists within a session; changes on long-return visits)                         |   Yes    |       No        |
+
+### Event Types
+
+| **Event Type**       | **Description**                             |
+|----------------------|---------------------------------------------|
+| **view**             | User viewed a product detail page           |
+| **cart**             | User added a product to their cart          |
+| **remove_from_cart** | User removed a product from their cart      |
+| **purchase**         | User completed a purchase                   |
