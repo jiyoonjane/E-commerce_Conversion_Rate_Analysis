@@ -1,5 +1,5 @@
 # E-commerce_Conversion_Rate_Analysis
-# 1. Introduction: Project Background & Objectives
+# Introduction: Project Background 
 
 ## Project Overview
 We are the Partner Analytics team at a leading cosmetics e-commerce platform, enabling our hosted brands to grow through data-driven insights. Recently, Grattol—the second-highest-revenue brand on our platform—requested an analysis to uncover ways to boost their sales.
@@ -8,7 +8,7 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 
 ---
 
-## 1.1 Background: Grattol’s Situation & Problem Statement
+## Background: Grattol’s Situation & Problem Statement
 
 > **Note:**  
 > **Goal:** Analyze the full revenue funnel—including conversion rate issues—and deliver practical growth strategies for Grattol.
