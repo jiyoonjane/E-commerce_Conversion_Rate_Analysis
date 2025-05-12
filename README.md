@@ -49,3 +49,53 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 - vs. Irisk (−6.4 pp)  
 - vs. Uno (−3.5 pp)  
 - vs. Top 4 average (−4.0 pp)
+
+- ## Monthly Revenue Trend
+- Grattol remains the #2 monthly revenue brand, but as of **February 2020**, the gap between top competitors is narrowing.
+- Although Grattol experienced a sharp month-over-month revenue decline (mirroring other brands), **Irisk** actually **grew** its revenue during the same period—hinting at a possible overtake in the near future.
+
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+
+## Daily Revenue Trend
+- Aside from event-driven sales spikes, all brands except Runail trail behind Irisk on a day-to-day basis.
+
+![Daily Revenue Trend](images/daily_revenue_trend.png)
+
+> **Note: How Is Revenue Calculated?**  
+> Revenue = Number of Purchasers × ARPPU  
+> = Visitors × Conversion Rate × ARPPU (Average Revenue Per Paying User)
+
+- **Visitors**: Total unique users landing on the brand page  
+- **Conversion Rate**: Percentage of visitors who make a purchase  
+- **ARPPU**: Average revenue per paying user
+
+## 👀🧭 Step 3: Analyze Grattol’s February 2020 Decline
+
+![Feb 2020 Metrics](images/feb_2020_metrics.png)
+
+| Brand   | Visitors ↓ | Conversion Rate ↓ | ARPPU ↑ | Revenue ↓  |
+|---------|------------|-------------------|---------|------------|
+| Runail  | Yes        | Yes               | Yes     | Significant ↓ |
+| Grattol | Yes        | **Yes**           | Yes     | ↓          |
+| Irisk   | Yes        | ↑                 | ↑       | ↑          |
+| Uno     | Yes        | Yes               | ↑       | ↓          |
+
+1. **Why did Grattol’s revenue drop?**  
+   - **Visitors ↓**: Platform-wide slowdown (common trend)  
+   - **Conversion Rate ↓**: Fewer visitors converted—👈 **the core issue**  
+   - **ARPPU ↑**: Those who did buy spent more on average  
+
+   _Although traffic fell, Grattol lost a disproportionate share of buyers, driving its revenue decline._
+
+2. **Why did Irisk grow?**  
+   Despite traffic decline, Irisk **improved** its conversion rate, resulting in overall revenue growth.
+
+3. **Next Steps**  
+   Close Grattol’s **opportunity cost gap**:  
+   - Grattol’s conversion rate lags the top-4 average by ~4 pp, indicating significant lost revenue potential on high traffic.  
+   - **Immediate focus**: Boost conversion rate to defend and grow monthly revenue.
+
+## Project Objective
+- Diagnose the **root causes** of Grattol’s under-optimized sales by examining conversion rate, ARPPU, and buyer counts.  
+- Deliver **data-driven insights** and tactical recommendations by analyzing user behavior across funnel stages, time of day, price tiers, and weekdays to pinpoint key growth levers.
+
