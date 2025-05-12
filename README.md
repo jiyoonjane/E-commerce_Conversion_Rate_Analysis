@@ -9,8 +9,7 @@ Although Grattol already ranks #2 in revenue, its purchase conversion rate lags 
 ---
 
 ## Background: Grattol’s Situation & Problem Statement
-
-> **Note:**  
+  
 > **Goal:** Analyze the full revenue funnel—including conversion rate issues—and deliver practical growth strategies for Grattol.
 
 ### EDA Workflow & Problem Definition
