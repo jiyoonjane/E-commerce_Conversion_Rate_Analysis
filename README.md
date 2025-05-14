@@ -1,5 +1,5 @@
 # E-commerce_Conversion_Rate_Analysis
-# Introduction
+
 
 ## Project Overview
 I’m on the Partner Analytics team at a leading cosmetics e-commerce platform, where I help partner brands grow through data-driven insights. Recently, Grattol—the second highest-earning brand on our site—asked me to analyze their performance and recommend ways to boost their sales.
